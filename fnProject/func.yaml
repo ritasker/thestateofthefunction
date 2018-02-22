@@ -4,5 +4,5 @@ runtime: python
 entrypoint: python2 func.py
 build_image: fnproject/python:2.7.13-dev
 config:
-  AWS_ACCESS_KEY_ID: AKIAJAT63M4N322SBXIQ
-  AWS_SECRET_ACCESS_KEY: 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
+  AWS_ACCESS_KEY_ID: *********
+  AWS_SECRET_ACCESS_KEY: *********
